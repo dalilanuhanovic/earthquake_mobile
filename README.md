@@ -1,30 +1,17 @@
-# Earthquaqes
-Android,Java
+# Earthquake mobile application
+  android, java, firebase
 
-Predmet: Razvoj mobilnih aplikacija
+# O aplikaciji
+„InShock“ je web aplikacija koja nakon izvršene registracije prikazuje listu najvećih zemljotresa na svijetu. Za rad koristi API koji daje podatke o trenutno najvećim zemljotresima i periodično osvježava bazu sa najnovijim informacijama. Sama aplikacija vrši i lokacijski prikaz zemljotresa na mapi, a kao privremeno rješenje za mapu upotrijebljena je nekomercijalna, „for development purposes only“  verzija namjenjena programerima. 
 
-Profesor: doc. dr Damir Omerašević
-
-Datum izrade: 13.5.2020
-
-Naziv aplikacije: „InShock“ je mobilna aplikacija koja nakon izvršene registracije prikazuje listu najvećih zemljotresa na svijetu. 
-Za rad koristi API koji daje podatke o trenutno najvećim zemljotresima i periodično osvježava bazu sa najnovijim informacijama. 
-Sama aplikacija vrši i lokacijski prikaz zemljotresa na mapi.
-
-
-
-Prerequisites
+# Pokretanje
 
 Za pokretanje ove web stranice potreban je Android studio.
 
+•	Download projekta
+•	Extract.ovan dokument pokrenuti u Android studiu
+•	Pokrenuti projekat kroz emulator
 
-Installing 
-Kroz nekoliko koraka opisan je način kako da instalirate aplikaciju 
-KORAK 1 – Download Earthquakes1mobileapp.zip 
-KORAK 2 – Earthquakes1mobileapp.zip 
-KORAK 3– Extact.ovan dokument pokrenuti u Android studiu. 
-KORAK 4– Pokrenuti projekat kroz emulator
 
-Built With: • Java • Android • Firebase
 
-Authors: • Anida Mujezin • Amer Hero • Dalila Nuhanović • Husein Džananović
+Autori: • Anida Mujezin • Amer Hero • Dalila Nuhanović • Husein Džananović
